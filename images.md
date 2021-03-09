@@ -1,3 +1,4 @@
+Access-Control-Allow-Origin	*
 
 https://user-images.githubusercontent.com/43905178/110437173-5fd28480-80b5-11eb-9d13-21c9e832042a.mp4
 https://user-images.githubusercontent.com/43905178/110436689-d02cd600-80b4-11eb-86a7-aaf2465aefef.mp4
