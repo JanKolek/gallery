@@ -1,11 +1,6 @@
 TV COUNT:
-15
+10
 TVs CONTENT:
-Video.mp4
-Video.mp4
-Video.mp4
-Video.mp4
-Video.mp4
 Video.mp4
 Video.mp4
 Video.mp4
