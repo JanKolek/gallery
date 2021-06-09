@@ -4,9 +4,13 @@
 ### Základní hiearchie
  
 * Logic
+  * Crossroads
+  * Gates
+  * GateAreas
+  * Runway
 * Map data
-  * Item 2a
-  * Item 2b
+  * Nodes
+  * Edges
 
 ### Nastavení předního kolečka
 
