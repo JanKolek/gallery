@@ -1,7 +1,7 @@
 
 # Pojezdy letadel
 
-### Základní hiearchie
+### Základní rozdělení hiearchie
  
 * Logic
   * Crossroads
@@ -11,4 +11,14 @@
 * Map data
   * Nodes
   * Edges
+
+### Crossroad
+* Proměnné
+  * ``` public int index ``` - 
+ 
+  * ```public List<PathFollower> queue ```- 
+  * ```public GateArea gateArea ```- 
+* Metody
+  * 
+  * 
 
